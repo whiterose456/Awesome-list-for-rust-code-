@@ -72,6 +72,7 @@ This list is for:
 - **[Clap](https://clap.rs/)** - A full-featured, fast, and intuitive command-line argument parser.
 - **[StructOpt](https://github.com/TeXitoi/structopt)** - Parse command-line arguments by defining a struct.
 - **[Termion](https://github.com/redox-os/termion)** - A bindless library for manipulating terminals.
+- Tokio - The industry-standard asynchronous runtime for the Rust programming language, essential for writing fast and reliable network applications.
 
 ### 📦 Package Management & Build
 - **[Cargo](https://doc.rust-lang.org/cargo/)** - The Rust package manager and build system.
